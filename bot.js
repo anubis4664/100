@@ -9,7 +9,7 @@ async function online() {
 			bot.user.setActivity(`🎮 Сервер offline`, {type: 0});
 		});
 }
-bot.login("MTAzMzAxMjAyNjM1MzY1MTcyMg.Gg0jO1.8b3Xei2cr1_d586NVb6zWvS0cYSiSMmApy_suk")
+bot.login("MTAzMzAxMjAyNjM1MzY1MTcyMg.GcvGgt.M73VtI7hwCUt_peTzCF6B7-mM-UUlSM6pa6cDU")
 bot.on('ready', async () => {
 	console.log('BOT UP')
 	online()
